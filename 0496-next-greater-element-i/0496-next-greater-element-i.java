@@ -1,6 +1,6 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int arr[] =new int[10000];
+        int arr[] =new int[10001];
         Stack<Integer> stack = new Stack<>();
         int n = nums2.length;
         for(int i=n-1;i>=0;i--){
