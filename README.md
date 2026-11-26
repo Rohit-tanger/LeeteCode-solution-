@@ -562,4 +562,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0876-middle-of-the-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
