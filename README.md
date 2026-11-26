@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0456-132-pattern](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0503-next-greater-element-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0678-valid-parenthesis-string) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0503-next-greater-element-ii) |
 ## Bit Manipulation
@@ -570,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0075-sort-colors) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Rohuu03/LeeteCode-solution-/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
